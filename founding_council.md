@@ -28,7 +28,7 @@ TODO
 - meet once a month
 - observers welcome
 - what requires a vote?
-- mechanism of voting #2
+- mechanism of voting [#2](https://github.com/k8hertweck/governance/issues/2)
 
 ## Responsibilities of Executive Council Members
 

@@ -19,8 +19,8 @@ Other technical committees?
 
 ## Policies and guidelines
 
-- License #1
-- Code of Conduct #4
+- License [#1](https://github.com/k8hertweck/governance/issues/1)
+- Code of Conduct [#4](https://github.com/k8hertweck/governance/issues/4)
 - Contribution Guidelines
 - Communications
 
