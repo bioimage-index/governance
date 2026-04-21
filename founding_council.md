@@ -28,7 +28,7 @@ TODO
 - meet once a month
 - observers welcome
 - what requires a vote?
-- mechanism of voting
+- mechanism of voting #2
 
 ## Responsibilities of Executive Council Members
 

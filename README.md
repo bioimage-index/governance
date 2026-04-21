@@ -1,6 +1,6 @@
 # Governance
 
-This repository contains information on how [the project] is run
+This repository contains information on how [the project] is run.
 Documentation is currently under active development.
 
 ## Overview of project and governance
@@ -19,8 +19,8 @@ Other technical committees?
 
 ## Policies and guidelines
 
-- License
-- Code of Conduct
+- License #1
+- Code of Conduct #4
 - Contribution Guidelines
 - Communications
 
