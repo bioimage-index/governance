@@ -1,19 +1,12 @@
 # Steering Council
 
-## Current members
+This document describes the makeup and function of the Steering Council.
+It is currently being developed by the 
+[Founding Steering Council](founding_council.md).
 
-## General Powers
+## TBD
 
-## Responsibilities of Executive Council Members
-
-## Number, Tenure, and Appointment
-
-## Regular Meetings and Quorum
-
-### Compensation
-
-### Confidentiality
-
-### Removal
-
-## Officers
+- Compensation
+- Confidentiality
+- Removal
+- Officers
