@@ -1,17 +1,21 @@
-# governance
+# Governance
 
 This repository contains information on how [the project] is run
 Documentation is currently under active development.
 
 ## Overview of project and governance
 
-- Public project charter/plan/pitch one-pager?
-
 ### Vision and goals
+
+- Public project charter/plan/pitch one-pager?
 
 ### Governance structure
 
 The Steering Council is the main decision-making body for [the project].
+
+The Schema Committee is responsible for...?
+
+Other technical committees?
 
 ## Policies and guidelines
 
