@@ -1,7 +1,15 @@
 # Governance and operations
 
-This repository contains information on how [the project] is run.
-Documentation is currently under active development.
+This repository contains information on how [the project] is run
+and is currently under active development.
+
+About items currently in progress:
+
+- Bullet points ending with a question mark (?) may or may not need to be represented in this repository.
+- Labels under section headers indicate status of approval by the Steering Council.
+    - [Requires approval] - not yet discussed
+    - [In preparation] - not yet ready for discussion
+- Alternatively, a link to an issue/PR indicates where additional information about the topic can be found.
 
 ## Overview of project and governance/operations
 
