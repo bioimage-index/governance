@@ -10,6 +10,8 @@ Please [file an issue](https://github.com/bioimage-index/governance/issues) with
 
 ## Overview of governance
 
+*This overview was shared with with Interim Steering Council on September 17, 2026 for review and feedback prior to posting.*
+
 Petabytes of public bioimage data are effectively invisible to researchers, with no unified way to discover what data exists and where across independent repositories. The Bioimage Index is a federated, image-level "existence + location" search layer that seeks to build this gap. This document describes the basic governance structure for the Bioimage Index, focusing on the Phase 1 proof-of-concept project: a search API and portal by Q3 2027.
 
 ### Participating organizations
