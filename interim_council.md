@@ -1,6 +1,6 @@
-# Founding Steering Council
+# Interim Steering Council
 
-[Requires approval]
+[DRAFT]
 
 This document describes the makeup and function of the Founding Steering Council,
 which supports operations for [the project] in its first 12 months.
@@ -12,8 +12,6 @@ will build on the responsibilities and expectations described here.
 TODO
 
 ## Council Responsibilities
-
-[Requires approval]
 
 The Founding Steering Council is responsible for general tasks associated with a steering council for this project:
 - engaging in formal decision making
@@ -27,14 +25,9 @@ The Founding Steering Council is also responsible for the following tasks associ
 
 ## Council Composition
 
-[In preparation]
-
-- one representative per founding organization – currently 10 members
-- council members involved in both operational and technical implementation – currently 6 operational and 3 technical members, with one focused on the interface between technical and operational
+TODO
 
 ## Meetings and Voting
-
-[In preparation]
 
 - who organizes meetings? do we need a chair?
 - meet once a month
@@ -43,8 +36,6 @@ The Founding Steering Council is also responsible for the following tasks associ
 - mechanism of voting [#2](https://github.com/k8hertweck/governance/issues/2)
 
 ## Responsibilities of Council Members
-
-[In preparation]
 
 - attend meetings
 - vote on proposals
